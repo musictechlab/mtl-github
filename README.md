@@ -1,9 +1,10 @@
 # GitHub to Webflow Integration
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 This project is a Flask-based web application that allows users to fetch GitHub repository information and manually add it to a Webflow collection. The application uses the GitHub API to retrieve repository data and the Webflow API to add this data to a Webflow CMS collection.
 
 ![Screenshot of the Application](brave_github/static/screenshot.png)
-
 
 ## Features
 
@@ -72,7 +73,6 @@ This project is a Flask-based web application that allows users to fetch GitHub 
 - `static/`: Directory for static files like CSS and JavaScript (not used extensively in this project).
 - `.env`: Environment variables file (not included in the repository, to be created manually).
 - `README.md`: This file.
-
 
 ## Troubleshooting
 
